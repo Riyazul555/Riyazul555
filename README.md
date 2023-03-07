@@ -1,4 +1,4 @@
-<h1 align='centre'> Hi👋 I am Riyazul </h1>
+<h1 align="centre"> Hi👋 I am Riyazul </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!--
 **Riyazul555/Riyazul555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
