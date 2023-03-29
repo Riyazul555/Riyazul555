@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazul555&show_icons=true&locale=en" alt="riyazul555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555&" alt="riyazul555" /></p>
+
+[![Riyazul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Riyazul555&theme=xcode)](https://git.io/Riyazul555)
