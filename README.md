@@ -44,7 +44,7 @@ npx riyaz
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyazul555&show_icons=true&locale=en&layout=compact" alt="riyazul555" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazul555&show_icons=true&locale=en" alt="riyazul555" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazul555&show_icons=true&locale=en&theme=radical" alt="riyazul555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555&" alt="riyazul555" /></p>
 
