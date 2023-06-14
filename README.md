@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Md Riyazul Islam</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=501&lines=Hello%2C+I+am+Md+Riyazul+Islam;Welcome+to+my+Github+account+;Want+a+piece+of+my+codes%3F+Buy+me+a+coffee+" alt="Typing SVG" /></a></p>
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -48,4 +48,4 @@ npx riyaz
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555&" alt="riyazul555" /></p>
 
-[![Riyazul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Riyazul555&theme=xcode)](https://git.io/Riyazul555)
+[![Riyazul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Riyazul555)](https://github.com/Riyazul555/github-readme-activity-graph)
