@@ -1,5 +1,6 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=501&lines=Hello%2C+I+am+Md+Riyazul+Islam;Welcome+to+my+Github+account+;Want+a+piece+of+my+codes%3F+Buy+me+a+coffee+" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/riyazulislb"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a></p>
 <h3 align="center">A passionate developer from India</h3>
 
 
