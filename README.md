@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Riyazul555&theme=matrix" alt="Riyazul555" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyazul555&label=Profile%20views&color=0e75b6&style=flat" alt="riyazul555" /> </p>
 
@@ -57,3 +57,6 @@ npx riyaz
 <img height = auto width = 95% img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riyazul555&theme=github" />
 
 [![Riyazul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Riyazul555)](https://github.com/Riyazul555/github-readme-activity-graph)
+
+<!-- Quote Of The Day --> Fun Fact Of The Day
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
