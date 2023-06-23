@@ -49,8 +49,9 @@ npx riyaz
 
 ![streak](https://github-contributor-stats.vercel.app/api?username=Riyazul555&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyazul555&show_icons=true&locale=en" alt="Riyazul555" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555&" alt="riyazul555" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyazul555&show_icons=true&locale=en" alt="Riyazul555" /></p>
 
 <img height = auto width = 95% img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riyazul555&theme=github" />
 
