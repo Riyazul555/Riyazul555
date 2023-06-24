@@ -46,8 +46,10 @@ npx riyaz
 <a href="https://www.codechef.com/users/riyazul_786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/riyazul_786" height="30" width="40" /></a>
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Riyazul555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![streak](https://github-contributor-stats.vercel.app/api?username=Riyazul555&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true) 
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555&" alt="riyazul555" /></p>
