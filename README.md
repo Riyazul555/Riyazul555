@@ -32,7 +32,7 @@
 ```bash
 npx riyaz
 ```
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22076646)](https://github.com/riyazul555/readme-components) 
+[![KritikaGupta30's GitHub | Stats](https://stats.quine.sh/Riyazul555/github?theme=light)](https://quine.sh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyazul555&layout=compact)](https://github.com/riyazul555/github-readme-stats) 
 
 <h3 align="left">Languages and Tools:</h3>
