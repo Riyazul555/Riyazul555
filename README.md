@@ -32,7 +32,10 @@
 ```bash
 npx riyaz
 ```
-[![KritikaGupta30's GitHub | Stats](https://stats.quine.sh/Riyazul555/github?theme=light)](https://quine.sh)
+[![Md Riyazul's GitHub | Stats](https://stats.quine.sh/Riyazul555/github?theme=light)](https://quine.sh)
+[![Riyazul555's GitHub | Dependencies](https://stats.quine.sh/Riyazul555/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riyazul555)
+[![Riyazul555's GitHub | Topics Over Time](https://stats.quine.sh/Riyazul555/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Riyazul555)
+[![Riyazul555's GitHub | Languages Over Time](https://stats.quine.sh/Riyazul555/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Riyazul555)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyazul555&layout=compact)](https://github.com/riyazul555/github-readme-stats) 
 
 <h3 align="left">Languages and Tools:</h3>
