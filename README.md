@@ -15,7 +15,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
-- 🔭 I’m currently working on **Boomzo**
+- 🔭 I’m currently looking for opportunities 
 
 - 🌱 I’m currently learning **ReactJS , NodeJS**
 
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,C++,Bootstrap,Tailwind**
 
-- 📫 How to reach me **riyazulislam2003@gamil.com**
+- 📫 How to reach me **riyazulislam2003@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio.md-riyazulriyaz.repl.co/](https://portfolio.md-riyazulriyaz.repl.co/)
 
@@ -55,7 +55,7 @@ npx riyaz
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riyazul555" alt="Riyazul555" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyazul555&show_icons=true&theme=radical" alt="Riyazul555" /></p>
 
 
