@@ -53,7 +53,7 @@ npx riyaz
 ![](https://github-contributor-stats.vercel.app/api?username=Riyazul555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Riyazul555&theme=dracula" alt="Contribution Stats for Riyazul" width="700">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyazul555&show_icons=true&theme=radical" alt="Riyazul555" /></p>
